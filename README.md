@@ -222,7 +222,7 @@ Config files for my GitHub profile.
                                         <div class="timeline-body">
                                             <div>
                                                 <div>
-                                                    <p class="txtcolor" style="font-family: 'Pattaya', sans-serif;">Thanh Xuân: ......</p>
+                                                    <p class="txtcolor" style="font-family: 'Pattaya', sans-serif;">Thanh Xuân: sinh nhật vui vẻ</p>
                                                 </div>
                                             </div>
                                         </div>
